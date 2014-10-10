@@ -1,0 +1,70 @@
+/*#title-logo {
+  background: url("http://www.mathjax.org/wp-content/themes/mathjax/images/logo.gif") 0 0 no-repeat;
+  text-indent: -999em;
+  }*/
+
+#hero {
+  background: #332f30 url(./img/hero-bg.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 140px 0; }
+  #hero h1, #hero h3 {
+    color: white;
+    line-height: 100%; }
+  #hero h1 {
+    font-size: 3.5em;
+    font-weight: 500; }
+  #hero h3 {
+    margin-bottom: 35px; }
+  #hero .lead {
+    color: #b4adaf; }
+  #hero button, #hero .button {
+    margin-top: 25px; }
+  }
+
+
+/*.feature-section{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-bottom: 50px;
+  
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: auto; }*/
+
+.sponsors-supporter img {
+  width: 100px;
+}
+
+.success {
+  background-color: #2E9F40!important;
+}
+
+body > section{
+  padding: 2em 2em;
+}
+
+.has-tip {
+    border-bottom: none!important;
+}
+
+.contact-section {
+    background: #ebecee; 
+}
+
+.docs-section {
+    background: #ebecee; 
+}
+
+.about-section {
+    background: #ebecee; 
+}
