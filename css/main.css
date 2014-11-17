@@ -58,13 +58,22 @@ body > section{
 }
 
 .contact-section {
-    background: #ebecee; 
+    background: #E5E5E5; 
+/*     background: #333; */
+/*     color: #eee; */
 }
 
 .docs-section {
-    background: #ebecee; 
+    background: #E5E5E5; 
+/*     background: #333; */
+/*     color: #eee; */
 }
 
 .about-section {
-    background: #ebecee; 
+/*    background: #E5E5E5; */
+}
+
+.footer-section {
+    background: #333;
+    color: #eee;
 }
