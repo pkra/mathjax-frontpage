@@ -1,3 +1,14 @@
+/* Default Link Styles */
+a {
+  color: #2e9f40;
+  text-decoration: none;
+  line-height: inherit; }
+  a:hover, a:focus {
+    color: #257F33; }
+  a img {
+    border: none; }
+
+
 /*#title-logo {
   background: url("http://www.mathjax.org/wp-content/themes/mathjax/images/logo.gif") 0 0 no-repeat;
   text-indent: -999em;
@@ -42,8 +53,9 @@ img {
     height: auto; }*/
 
 .sponsors-supporter img {
-  width: 100px;
+  padding: 100px!important;
 }
+
 
 .success {
   background-color: #2E9F40!important;
@@ -53,9 +65,11 @@ body > section{
   padding: 2em 2em;
 }
 
+/* Tooltips */
 .has-tip {
-    border-bottom: none!important;
-}
+  border-bottom: none;}
+  .has-tip:hover, .has-tip:focus {
+    border-bottom: none;}
 
 .contact-section {
     background: #E5E5E5; 
